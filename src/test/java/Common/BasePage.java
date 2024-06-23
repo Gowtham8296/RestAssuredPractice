@@ -15,5 +15,6 @@ public class BasePage {
     public static Logger logger = Logger.getLogger(BasePage.class);
 
     public static WebDriver driver = null;
+//    "hello"
 
 }
